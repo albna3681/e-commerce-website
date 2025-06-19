@@ -1,7 +1,20 @@
 # 🛒 SmartPick - منصة التجارة الإلكترونية الذكية
 
-![معاينة النظام](https://aldhihaexams.com/video_2025-06-19_03-10-09.gif)
-
+## 📹 الصفحة الرئيسية تظهر اهم المنتجات والهيدر والفوتر 
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20036%20-%20smart%20pick%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة المساعد الذكي ومهمتها ربط ب ai  انه يسهل التواصل مع المستخدم والبث ويجلب له افضل المنتجات
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20037%20-%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%20%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A%20-%20SmartLife%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة الاوردر 
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20038%20-%20Product%20Details%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة السلة واكمال الاوردر
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20039%20-%20Smart%20Pick%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة checkout
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20040%20-%20Smart%20Pick%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة اختيار طريقة الدفع
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20041%20-%20Smart%20Pick%20-%20Secure%20Payment%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة الدفع 
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20041%20-%20Smart%20Pick%20-%20Secure%20Payment%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 يوجد الكثير من الصفحات
 > مشروع تطوير متجر إلكتروني متكامل مع مساعد ذكي - Full Stack Development Project
 
 ## 👨‍💻 نظرة عامة على المشروع
