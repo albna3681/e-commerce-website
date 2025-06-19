@@ -13,7 +13,7 @@
 ## 📹 صفحة اختيار طريقة الدفع
 ![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20041%20-%20Smart%20Pick%20-%20Secure%20Payment%20-%20%5Baldhihaexams.com%5D.png)
 ## 📹 صفحة الدفع 
-![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20041%20-%20Smart%20Pick%20-%20Secure%20Payment%20-%20%5Baldhihaexams.com%5D.png)
+![](https://github.com/albna3681/e-commerce-website/blob/a774c05dedbec9aa42cfade55dfa0c70a1b26b36/FireShot%20Capture%20042%20-%20Paymob%20checkout%20-%20%5Baccept.paymob.com%5D.png)
 ## 📹 يوجد الكثير من الصفحات
 > مشروع تطوير متجر إلكتروني متكامل مع مساعد ذكي - Full Stack Development Project
 
